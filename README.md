@@ -1,5 +1,5 @@
 # Data-Mining
-Few data mining algorithm implemented on ESE  545 Penn
+A few data mining algorithms implemented on ESE  545 Penn
 
 LSH.py includes LSH algorithm
 
